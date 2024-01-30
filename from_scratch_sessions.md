@@ -12,6 +12,8 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 ## 2023/06/28 - niu 
 
+## 2023/05/25 - Canódrom
+
 ## 2023/04/27 - Hangar
 
 /*VIU*/ 2023 
@@ -25,6 +27,8 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 ## 2023/01/26 - La casa de la musica (Terrassa)
 
 ## There were two sessions I didn't attend in the old TOPLAP Office next to Marina
+
+## 2022/12/22 - Niu
 
 ## 2022/05/19 - Hangar
 
@@ -46,6 +50,8 @@ Semi-Public from scratch that turned into an algorave stream, in collaboration w
 TOPLAP Berlin.
 
 ## 2021/11/25 - Hangar
+
+## 2021/09/08 - (partially) online?
 
 ## 2021/05/27 - Hangar
 
