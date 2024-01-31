@@ -2,6 +2,10 @@
 
 ## 2024/01/25 - niu
 
+**Sorteo:** ![sorteo Jan 2024](images/sorteo_20240125.jpg?raw=true "Sorteo Jan 2024")
+
+The sorteo wasn't observed at all this time ...
+
 ## 2023/11/23 - niu
 
 FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so far.
