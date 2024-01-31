@@ -12,9 +12,21 @@ The sorteo wasn't observed at all this time ...
 
 FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so far.
 
+**Sorteo:** 
+
+<img src="images/sorteo_20231123.jpg?raw=true" width="200" />
+
 ## 2023/10/26 - niu
 
+**Sorteo:** 
+
+<img src="images/sorteo_20231026.jpg?raw=true" width="200" />
+
 ## 2023/09/28 - niu
+
+**Sorteo:** 
+
+<img src="images/sorteo_20230928.jpg?raw=true" width="200" />
 
 ## 2023/06/28 - niu 
 
