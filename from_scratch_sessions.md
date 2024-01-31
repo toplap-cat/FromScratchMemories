@@ -28,7 +28,11 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 <img src="images/sorteo_20230928.jpg?raw=true" width="200" />
 
-## 2023/06/28 - niu 
+## 2023/06/29 - niu 
+
+**Sorteo:** 
+
+<img src="images/sorteo_20230929.jpg?raw=true" width="200" />
 
 ## 2023/05/25 - Canódrom
 
@@ -36,13 +40,25 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 /*VIU*/ 2023 
 
+**Sorteo:** 
+
+<img src="images/sorteo_20230427.jpg?raw=true" width="200" />
+
 **Recorded Stream:** https://www.youtube.com/watch?v=tMbPaq7kjsM&t=3155s
 
 ## 2023/03/30 - Canódrom
 
-## 2023/02/23 - niu, Barcelona
+## 2023/02/23 - niu
+
+**Sorteo:** 
+
+<img src="images/sorteo_20230223.jpg?raw=true" width="200" />
 
 ## 2023/01/26 - La casa de la musica (Terrassa)
+
+**Sorteo:** 
+
+<img src="images/sorteo_20230126.jpg?raw=true" width="200" />
 
 ## 2022/12/22 - Niu
 
