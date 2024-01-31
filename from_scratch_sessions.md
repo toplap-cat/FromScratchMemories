@@ -87,7 +87,17 @@ TOPLAP Berlin.
 
 ## 2021/11/25 - Hangar
 
+**Sorteo:** 
+
+<img src="images/sorteo_20211125.jpg?raw=true" width="200" />
+
+Olivia Jack was a artist in residence at the time ...
+
 ## 2021/09/08 - (partially) online?
+
+**Sorteo:** 
+
+<img src="images/sorteo_20210908.jpg?raw=true" width="200" />
 
 ## 2021/05/27 - Hangar
 
