@@ -2,7 +2,9 @@
 
 ## 2024/01/25 - niu
 
-**Sorteo:** ![sorteo Jan 2024](images/sorteo_20240125.jpg?raw=true "Sorteo Jan 2024")
+**Sorteo:** 
+
+<img src="images/sorteo_20240125.jpg?raw=true" width="200" />
 
 The sorteo wasn't observed at all this time ...
 
