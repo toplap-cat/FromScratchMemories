@@ -32,7 +32,7 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 **Sorteo:** 
 
-<img src="images/sorteo_20230929.jpg?raw=true" width="200" />
+<img src="images/sorteo_20230629.jpg?raw=true" width="200" />
 
 ## 2023/05/25 - Canódrom
 
