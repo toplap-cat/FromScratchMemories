@@ -28,7 +28,7 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 ## 2022/12/22 - Niu
 
-## 2022/10/27 - Toplap Office Marina (?)
+## 2022/10/27 - made makerspace
 
 ## 2022/09/29 - Toplap Office Marina
 
