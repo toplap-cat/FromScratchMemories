@@ -26,9 +26,11 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 ## 2023/01/26 - La casa de la musica (Terrassa)
 
-## There were two sessions I didn't attend in the old TOPLAP Office next to Marina
-
 ## 2022/12/22 - Niu
+
+## 2022/10/27 - Toplap Office Marina (?)
+
+## 2022/09/29 - Toplap Office Marina
 
 ## 2022/05/19 - Hangar
 
