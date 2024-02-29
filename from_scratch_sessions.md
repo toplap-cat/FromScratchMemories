@@ -1,5 +1,13 @@
 # From Scratch Sessions
 
+## 2024/02/29 - niu
+
+<img src="images/outside_20240229.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20240229.jpg?raw=true" width="200" />
+
 ## 2024/01/25 - niu
 
 **Sorteo:** 
