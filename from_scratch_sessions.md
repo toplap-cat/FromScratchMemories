@@ -1,5 +1,40 @@
 # From Scratch Sessions
 
+## 2024/03/21
+
+**Poster:**
+
+<img src="images/poster_20240321.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20240321.jpg?raw=true" width="200" />
+
+A week early due to semana santa.
+
+A preferential invitation went out to women-identifying and FLINTA* people.
+
+Memoria de Citlali: 
+
+Qué guay ayer! Creo que fue un primer from scratch enfocado a mujeres y disidencias muy interesante! 
+
+Sin duda somos poquitas! Todas muy inspiradoras.
+
+Aunque no hubo el ejercicio de relatoría, y todo quedará en nuestras memorias. Comparto por aquí un par de reflexiones y un pequeño resumen de lo que pasó ayer. 💜
+
+- Puede ser que esa sensación de percibir al live coding como intimidante esté más acentuada en el contexto de mujeres y disidencias?
+- Ayer éramos la mayoría visualistas y de manera orgánica sucedió una especie de diálogo entre los visuales de cada from scratch. Júlia empezó con unos cuadritos en P5LIVE hermosos que luego continué con Hydra, y finalmente Joan contestó en Punctual. Me pareció hermoso ver la la misma geometría en distintos lenguajes y distintas maneras de aproximarnos a la imagen. 
+- Laura hizo ritmos y melodías con SonicPi, que en modo glitch y como toca en un buen from scratch, al principio quería sonar a través del proyector. Nos reímos y volvimos a empezar. 
+- Maia hizo SuperCollider con ondas sonoras que nos hipnotizaron junto a los dancing cuadritos de Ju. 
+- Lina, que llegaba desde el otro lado de la ciudad, hizo un set con Mercury que nos hizo bailar.
+- Cuando Lina iba a llegar a los 9 minutos, todas sentimos que el set debía durar más y por tanto rompimos las reglas del from scratch. :) Lina hizo un set largo al que me sumé para seguir con el mundo visual de los cuadritos en modo epilepsia. (blancos y negros) 
+- Joan e Iván cerraron el From Scratch con Super Collider y Punctual. Vimos cuadritos de colores que rotaban, y cambiaban de escalas. 
+Bailaban al ritmo del siempre gustoso y profundo ruidismo de Iván. 
+- En el público estaban Enric, Alfosofonso, Diego, Iris, Tayrine.
+- Ayer comenzó la primavera para bailar al ritmo de cuadritos y ruidismos en un experimental From Scratch*
+
+
+
 ## 2024/02/29 - niu
 
 <img src="images/outside_20240229.jpg?raw=true" width="200" />
