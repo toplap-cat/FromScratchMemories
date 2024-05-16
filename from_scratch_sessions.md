@@ -1,5 +1,24 @@
 # From Scratch Sessions
 
+## 2024/04/18
+
+**VIU 2024** From Scratch
+
+Another FromScratch-Marathon, this time with people from different parts of the world that were guests for VIU.
+
+Here's Prof. Roger explaining the sorteo:
+
+<img src="images/sorteo_20240418.jpg?raw=true" width="200" />
+
+International Audience:
+
+<img src="images/audience_20240418.jpg?raw=true" width="200" />
+
+We even had a poetry booth:
+
+<img src="images/poetry_20240418.jpg?raw=true" width="200" />
+
+
 ## 2024/03/21
 
 **Poster:**
