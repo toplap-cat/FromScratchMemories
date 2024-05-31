@@ -11,7 +11,8 @@ Links to some of the tools/languages which have been used at least once over the
 - Mercury -- https://www.timohoogland.com/mercury-livecoding/
 - MicroBlocks -- https://microblocks.fun/
 - Orca -- https://100r.co/site/orca.html
-- p5.js (Processing) -- https://p5js.org/
+- p5.js -- https://p5js.org/ (JavaScript library version of Processing) 
+- P5LIVE -- https://www.teddavis.org/p5live/ (p5.js-based collaborative live-coding VJ environment)
 - Punctual -- https://dktr0.github.io/Punctual/
 - Pure Data -- https://puredata.info/
 - Scratch -- https://scratch.mit.edu/ (people using this language really do everything "From Scratch")

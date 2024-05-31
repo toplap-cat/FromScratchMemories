@@ -84,7 +84,7 @@ Bailaban al ritmo del siempre gustoso y profundo ruidismo de Iván.
 
 | Audio | Visuals | Notes |
 |-------|---------|-------|
-| Bernat (MicroBlocks with hardware microcontroller/synth) | Maia (Processing.js) |
+| Bernat (MicroBlocks with hardware microcontroller/synth) | Maia (P5LIVE) |
 | Iván (SuperCollider) | Alicia (Hydra) |
 | Alicia (Tidal) | Xiwire (Hydra) |
 | Xiwire (SC) | Glen/totalgee (Punctual) |

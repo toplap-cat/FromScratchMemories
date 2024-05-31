@@ -1,4 +1,4 @@
-# FromScratchMemories
+# From Scratch Memories
 
 Collecting memories from the FromScratch sessions in Barcelona, which have been going on regularly (usually monthly, on the last Thursday of the month) since May 2018.
 
