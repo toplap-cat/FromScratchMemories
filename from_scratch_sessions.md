@@ -2,6 +2,10 @@
 
 ## 2024/05/30
 
+**Sorteo:** 
+
+<img src="images/sorteo_20240530.jpg?raw=true" width="200" />
+
 | Audio | Visuals | Notes |
 |-------|---------|-------|
 | Iván (SuperCollider) | Daniela (Animatron) | Daniela's first time performing in a From Scratch! (**Not** Iván's first time...) |
