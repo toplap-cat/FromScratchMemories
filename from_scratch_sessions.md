@@ -1,5 +1,21 @@
 # From Scratch Sessions
 
+## 2024/05/30
+
+| Audio | Visuals | Notes |
+|-------|---------|-------|
+| Iván (SuperCollider) | Daniela (Animatron) | Daniela's first time performing in a From Scratch! (**Not** Iván's first time...) |
+| Xavi (custom interface to the OpenAI API; chatting with a ChatGPT agent and directly executing the SuperCollider code it produced) | Roger (Animatron) | I think a lot of us were left with our jaws on the ground... It was Xavi's first time performing in a From Scratch (and possibly ChatGPT's first time, too). |
+| Glen/totalgee (SC; playing with two samples) | José (Snap!) |
+| Ramón (Tidal...eventually, after a long time trying to get audio out of his laptop!) | Judit (Hydra) | Judit's first time performing in a From Scratch. |
+| Niklas (Mégra) | Joan (Punctual in Estuary) |
+| Lluís (SC) | Daniela (Animatron) | By now Daniela is a seasoned from scratch veteran... |
+| Laura (Sonic Pi) | Bernat (Snap!) |
+| Bernat (MicroBlocks) | Iván (Hydra) |
+
+There weren't many people at 19h, so we eventually got started around 19h25 and ran until ~21h15.
+
+
 ## 2024/04/18
 
 **VIU 2024** From Scratch
@@ -64,7 +80,7 @@ Bailaban al ritmo del siempre gustoso y profundo ruidismo de Iván.
 
 | Audio | Visuals | Notes |
 |-------|---------|-------|
-| Bernat (MicroBlocks; with hardware microcontroller/synth) | Maia (Processing.js?) |
+| Bernat (MicroBlocks with hardware microcontroller/synth) | Maia (Processing.js) |
 | Iván (SuperCollider) | Alicia (Hydra) |
 | Alicia (Tidal) | Xiwire (Hydra) |
 | Xiwire (SC) | Glen/totalgee (Punctual) |
