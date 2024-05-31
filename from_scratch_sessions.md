@@ -62,6 +62,18 @@ Bailaban al ritmo del siempre gustoso y profundo ruidismo de Iván.
 
 <img src="images/sorteo_20240229.jpg?raw=true" width="200" />
 
+| Audio | Visuals | Notes |
+|-------|---------|-------|
+| Bernat (MicroBlocks; with hardware microcontroller/synth) | Maia (Processing.js?) |
+| Iván (SuperCollider) | Alicia (Hydra) |
+| Alicia (Tidal) | Xiwire (Hydra) |
+| Xiwire (SC) | Glen/totalgee (Punctual) |
+| Glen (SC + MIDI to Dirtywave M8 tracker) | Joan (Punctual) |
+| Glen (SC) | Leon + Beverley (custom-made drawing software) |
+| Joan (Tidal in Estuary) | Joan (Punctual in Estuary) | Fun clapping audience participation piece! |
+
+The from scratch event was followed by a ~40 minute prepared set by Roger, using Živa/SC for music along with a short animation he had made. We eventually got started around 19h25 and ran until 22h, including Roger's performance at the end.
+
 ## 2024/01/25 - niu
 
 **Sorteo:** 
