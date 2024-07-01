@@ -24,6 +24,8 @@ It was modified nearly immediately, here are the final pairings:
 
 Afterwards, Lina's students played a collaborative set with Mercury and Flok, with 5-6 people on stage.
 
+Quite a big audience for a summer session, esp. compared to the last one ...
+
 ## 2024/05/30 - niu
 
 **Sorteo:** 
