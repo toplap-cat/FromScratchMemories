@@ -1,5 +1,29 @@
 # From Scratch Sessions
 
+## 2024/06/27
+
+**Poster:** 
+
+<img src="images/poster_20240627.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20240627.jpg?raw=true" width="200" />
+
+It was thrown overboard nearly immediately, here's the final pairings:
+
+| Audio                                    | Visuals           | Notes                       |
+|------------------------------------------|-------------------|-----------------------------|
+| Niklas (Mégra)                           | Joan (Punctual)   |                             |
+| Iván (SuperCollider)                     | Matilde (Hydra)   |                             |
+| Dinou (SuperCollider)                    | Glen (Punctual)   |                             |
+| Lina (Mercury)                           | Diego (Animatron) | Diego's Animatron Debut?    |
+| Bernat (MicroBlocks + YM2149F Chipsynth) | Citlali (Hydra)   | very chiptune               |
+| Eloi (TidalCycles)                       | Enric (Snap)      | very prominent vocal sample |
+| Roger (Supercollider + Ziva)             | Leon (P5 + Hydra) |                             |
+
+Afterwards, Lina's students played a collaborative set with Mercury and Flok, with 5-6 people on stage.
+
 ## 2024/05/30
 
 **Sorteo:** 
