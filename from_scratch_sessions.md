@@ -252,9 +252,13 @@ TOPLAP Barcelona's 3rd Birthday. An additional constraint was that everyone had 
 
 **Recorded Stream:** https://www.youtube.com/watch?v=RhUte1i6H4c
 
-## 2020/02/13 - Hangar
+## 2020/02/13 - Hangar - /* VIU 2020 */
 
-FromScratch Marathon
+FromScratch Marathon for /* VIU 2020 */, right after ICLC 2020 Limerick, 
+and one for the last in-person events before the pandemic really took off.
+
+Back then it was still mostly solo performances, rather than the sound/visual pairings 
+that became typical later on.
 
 **Recorded Stream:** https://www.youtube.com/watch?v=QTke6xiTuqc
 
@@ -266,7 +270,10 @@ FromScratch Marathon
 
 Collaborative FromScratch.
 
-## 2019/01/24 - Hangar
+## 2019/01/24 - Hangar - /* VIU 2019 */
+
+FromScratch Marathon for /* VIU 2019 */, right after ICLC 2019 in Madrid. The day started with talks
+and presentations, and we had plenty of guests that came over from Madrid after ICLC.
 
 ## 2018/11/29 - Hangar
 
