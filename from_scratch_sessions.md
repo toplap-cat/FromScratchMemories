@@ -1,6 +1,6 @@
 # From Scratch Sessions
 
-## 2024/06/27
+## 2024/06/27 - niu - last session of the 2023/2024 season.
 
 **Poster:** 
 
@@ -24,7 +24,7 @@ It was thrown overboard nearly immediately, here's the final pairings:
 
 Afterwards, Lina's students played a collaborative set with Mercury and Flok, with 5-6 people on stage.
 
-## 2024/05/30
+## 2024/05/30 - niu
 
 **Sorteo:** 
 
@@ -43,8 +43,7 @@ Afterwards, Lina's students played a collaborative set with Mercury and Flok, wi
 
 There weren't many people at 19h, so we eventually got started around 19h25 and ran until ~21h15.
 
-
-## 2024/04/18
+## 2024/04/18 - niu
 
 **VIU 2024** From Scratch
 
@@ -63,7 +62,7 @@ We even had a poetry booth:
 <img src="images/poetry_20240418.jpg?raw=true" width="200" />
 
 
-## 2024/03/21
+## 2024/03/21 - niu
 
 **Poster:**
 
@@ -95,7 +94,6 @@ Aunque no hubo el ejercicio de relatoría, y todo quedará en nuestras memorias.
 Bailaban al ritmo del siempre gustoso y profundo ruidismo de Iván. 
 - En el público estaban Enric, Alfosofonso, Diego, Iris, Tayrine.
 - Ayer comenzó la primavera para bailar al ritmo de cuadritos y ruidismos en un experimental From Scratch*
-
 
 
 ## 2024/02/29 - niu
