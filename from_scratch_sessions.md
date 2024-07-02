@@ -210,7 +210,33 @@ Participants (reconstructed from pictures, might be incomplete):
 
 ## 2022/10/27 - made makerspace
 
+**Entrada:** 
+
+<img src="images/entry_20221027.jpg?raw=true" width="200" />
+
+**People:** 
+
+<img src="images/audience_20221027.jpg?raw=true" width="200" />
+
+Participants: (reconstructed from pictures, might be incomplete, order unclear):
+
+* Alfonso
+* Alicia
+* Maia
+* Joan ?
+* Roger
+* someone using MaxMSP whose name I don't know
+
 ## 2022/09/29 - Toplap Office Marina
+
+Participants (reconstructed from pictures, might be incomplete, order unclear):
+
+* Eloi
+* Ramon
+* Alicia
+* Penny 
+* Alfonso
+* Maia
 
 ## 2022/05/19 - Hangar
 
