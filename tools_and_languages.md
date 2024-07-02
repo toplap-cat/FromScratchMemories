@@ -8,7 +8,9 @@ Links to some of the tools/languages which have been used at least once over the
 - C++ 
 - Estuary -- https://estuary.mcmaster.ca/
 - Hydra -- https://hydra.ojack.xyz/
+- imgsampler -- https://github.com/the-drunk-coder/imgsampler (used 2x on stage in total, probably)
 - JavaScript -- do we really need a link? Well, yes: maybe to Alfonso's [robotona](https://www.lalluvia.com/robotona/) or https://www.lalluvia.com/
+- MaxMSP 
 - Mégra and Mégra.rs -- https://github.com/the-drunk-coder/megra https://github.com/the-drunk-coder/megra.rs
 - Mercury -- https://www.timohoogland.com/mercury-livecoding/
 - MicroBlocks -- https://microblocks.fun/
