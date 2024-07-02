@@ -45,9 +45,7 @@ Quite a big audience for a summer session, esp. compared to the last one ...
 
 There weren't many people at 19h, so we eventually got started around 19h25 and ran until ~21h15.
 
-## 2024/04/18 - niu
-
-**VIU 2024** From Scratch
+## 2024/04/18 - niu - /* VIU 2024 */ From Scratch
 
 Another FromScratch-Marathon, this time with people from different parts of the world that were guests for VIU.
 
@@ -59,7 +57,7 @@ International Audience:
 
 <img src="images/audience_20240418.jpg?raw=true" width="200" />
 
-We even had a poetry booth:
+We even had a poetry booth (by blapunk https://www.instagram.com/bla.punk/ )
 
 <img src="images/poetry_20240418.jpg?raw=true" width="200" />
 
@@ -154,9 +152,21 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 ## 2023/05/25 - Canódrom
 
-## 2023/04/27 - Hangar
+**Soundcheck:**
 
-/*VIU*/ 2023 
+<img src="images/soundcheck_20230525.jpg?raw=true" width="200" />
+
+Participants (reconstructed from pictures, might be incomplete):
+
+* Niklas (Mégra) & Linalab (?, Hydra)
+* Linalab (TidalCycles) & Glen aka totalgee (shaders)
+* Glen (SuperCollider) & Iván (Hydra) (might be the other way round ???)
+* Iván (SuperCollider) & Roger (animatron)
+* Maia Francisco (SuperCollider) 
+* Ramon & Eloi (couldn't see who did what)
+* Eloi (TidalCycles) & Niklas (imgsampler, probably used for the 2nd time on stage in total)
+
+## 2023/04/27 - Hangar - /* VIU 2023 */  
 
 **Sorteo:** 
 
@@ -165,6 +175,24 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 **Recorded Stream:** https://www.youtube.com/watch?v=tMbPaq7kjsM&t=3155s
 
 ## 2023/03/30 - Canódrom
+
+**Soundcheck:**
+
+<img src="images/soundcheck_20230330.jpg?raw=true" width="200" />
+
+The Canódrom sessions unfortunately weren't visited that well, probably because there's no bar there ... 
+
+Participants (reconstructed from pictures, might be incomplete):
+
+* Linalab (Hydra) & Alfonsofonso (Alfonsofonso software)
+* Eloi el bon Noi (TidalCycles, solo)
+* person with a beard whose name I don't remember (TidalCyles)
+* Maia (audio & visuals with SuperCollider)
+* Roger (Ziva)
+* Iván (SuperCollider)
+* Linalab (TidalCycles)
+* Niklas (Mégra)
+* Alicia (TidalCyles)
 
 ## 2023/02/23 - niu
 
@@ -188,9 +216,7 @@ FromScratch for the Algorithmic Pattern Salon, probably the longest we've had so
 
 ## 2022/04/28 - Hangar
 
-## 2022/03/24 - Hangar
-
-/*VIU*/ 2022
+## 2022/03/24 - Hangar - /* VIU */ 2022
 
 ## 2022/02/24 - Hangar
 
