@@ -7,6 +7,8 @@ Links to some of the tools/languages which have been used at least once over the
 - Bash 
 - C++ 
 - Estuary -- https://estuary.mcmaster.ca/
+- Flok -- https://github.com/munshkr/flok
+- FoxDot -- https://github.com/Qirky/FoxDot
 - Hydra -- https://hydra.ojack.xyz/
 - imgsampler -- https://github.com/the-drunk-coder/imgsampler (used 2x on stage in total, probably)
 - JavaScript -- do we really need a link? Well, yes: maybe to Alfonso's [robotona](https://www.lalluvia.com/robotona/) or https://www.lalluvia.com/
@@ -26,6 +28,7 @@ Links to some of the tools/languages which have been used at least once over the
 - Strudel -- https://strudel.cc/
 - SuperCollider -- https://supercollider.github.io/
 - Tidal Cycles -- https://tidalcycles.org/
+- Vargula -- @totalgee visual live coding playground
 - Živa -- https://github.com/loopier/ziva
 
 ## Hardware
