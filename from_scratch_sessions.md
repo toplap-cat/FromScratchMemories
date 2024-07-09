@@ -14,17 +14,21 @@ It was modified nearly immediately, here are the final pairings:
 
 | Audio                                    | Visuals           | Notes                                                         |
 |------------------------------------------|-------------------|---------------------------------------------------------------|
-| Niklas (Mégra)                           | Joan (Punctual)   |                                                               |
+| Niklas (Mégra)                           | Joan (Punctual)   | Got started around 19h20.                                     |
 | Iván (SuperCollider)                     | Matilde (Hydra)   |                                                               |
 | Dinou (SuperCollider)                    | Glen (Punctual)   |                                                               |
-| Lina (Mercury)                           | Diego (Animatron) | Diego's Animatron Debut?                                      |
+| Lina (Mercury)                           | Diego (Animatron) | Diego's Animatron Debut, with stable diffusion images.        |
 | Bernat (MicroBlocks + YM2149F Chipsynth) | Citlali (Hydra)   | Very chiptune.                                                |
-| Eloi (TidalCycles)                       | Enric (Snap)      | Very prominent vocal sample. Also, Enric's FromScratch debut? |
-| Roger (Supercollider + Ziva)             | Leon (P5 + Hydra) |                                                               |
+| Eloi (TidalCycles)                       | Enric (Snap)      | Very prominent vocal sample. Also, Enric's FromScratch debut. |
+| Roger (Supercollider + Živa)             | Leon (P5js + Hydra) |                                                             |
 
-Afterwards, Lina's students played a collaborative set with Mercury and Flok, with 5-6 people on stage.
+We thought were done shortly before 21h10...but no, we weren't done! Afterwards, a group of Lina's students (Amaru, Felipe, Nils, Mia and Augustin) got up on stage to do a collaborative set with Mercury and Flok, with 5-6 performing simultaneously on stage (including Lina sometimes jumping up to help with something).
 
-Quite a big audience for a summer session, esp. compared to the last one ...
+Quite a big audience for a summer session, especially compared to the last one...
+
+At one point, Linua got up on stage to announce that, for the first time at a FromScratch, we had more visualists than audio performers!
+
+> Misunderstood sample lyrics: "Sí, quiero un iPhone!"
 
 ## 2024/05/30 - niu
 
@@ -188,7 +192,7 @@ Participants (reconstructed from pictures, might be incomplete):
 * Eloi el bon Noi (TidalCycles, solo)
 * person with a beard whose name I don't remember (TidalCyles)
 * Maia (audio & visuals with SuperCollider)
-* Roger (Ziva)
+* Roger (Živa)
 * Iván (SuperCollider)
 * Linalab (TidalCycles)
 * Niklas (Mégra)
