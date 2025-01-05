@@ -36,7 +36,7 @@ This from scratch happened within the Framework of the Híbrides conference.
 
 (order shifted around a bit as usual, in the end)
 
-<img src="images/sorteo_20241128.jpg?raw=true" width="200" />
+<img src="images/sorteo_20240926.jpg?raw=true" width="200" />
 
 Pairings (reconstructed from images):
 
