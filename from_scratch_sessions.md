@@ -1,5 +1,57 @@
 # From Scratch Sessions
 
+## 2024/11/28 - niu - Híbrides From Scratch
+
+This from scratch happened within the Framework of the Híbrides conference. 
+
+**Poster:** 
+
+<img src="images/poster_20241128.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+(order shifted around a bit as usual, in the end)
+
+<img src="images/sorteo_20241128.jpg?raw=true" width="200" />
+
+## 2024/10/31 - niu 
+
+**Poster:** 
+
+<img src="images/poster_20241031.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+(order shifted around a bit as usual, in the end)
+
+<img src="images/sorteo_20241031.jpg?raw=true" width="200" />
+
+## 2024/09/26 - niu - first session of the 2024/2025 season
+
+**Poster:** 
+
+<img src="images/poster_20240926.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+(order shifted around a bit as usual, in the end)
+
+<img src="images/sorteo_20241128.jpg?raw=true" width="200" />
+
+Pairings (reconstructed from images):
+
+| Audio                | Visuals              | Notes                                           |
+|----------------------|----------------------|-------------------------------------------------|
+| Xiwire (TidalCycles) | Celia (Hydra)        |                                                 |
+| Bernat (MicroBlocks) | Ludo (Hydra)         | Someone's birthday, "Happy Birthday" was played |
+| Lina (Mercury)       | Leon (??)            |                                                 |
+| Niklas (Mégra)       | Citlali (Hydra)      |                                                 |
+| Santi ? (?)          | Roger (Animatron)    |                                                 |
+| Ramón (TidalCycles)  | Roger (Animatron)    |                                                 |
+| Ivan (SuperCollider) | Maia (SuperCollider) |                                                 |
+| Glen (Bacalao)       | Xiwire (Hydra)       |                                                 |
+| Roger (Živa)         | Xiwire (Hydra)       |                                                 |
+
 ## 2024/06/27 - niu - last session of the 2023/2024 season.
 
 **Poster:** 
