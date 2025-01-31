@@ -1,5 +1,29 @@
 # From Scratch Sessions
 
+## 2025/01/30 - niu
+
+The first FromScratch of 2025. The year started quite noisy. The lineup started 
+small but we had some "walk-ins" so in the end it was a fully-fledged 
+FromScratch session.
+
+**Poster:** 
+
+<img src="images/poster_20250130.jpg?raw=true" width="200" />
+
+**Final Pairings**
+
+Ramón & Jogaye - TidalCycles + Snap - no input supercollider
+
+Alicia & Enric - TidalCycles + Snap
+
+Justin + Tito - SuperCollider + Hydra - very noisy debut
+
+Niklas + Roger - Mégra + Animatron 
+
+Stefan + Anna-Lucia - Strudel + p5live - "walk-ins", another FromScratch debut
+
+The Masked Coders - Mercury + Hydra
+
 ## 2024/11/28 - niu - Híbrides From Scratch
 
 This from scratch happened within the Framework of the Híbrides conference. 
