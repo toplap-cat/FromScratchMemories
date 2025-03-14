@@ -22,13 +22,15 @@ Links to some of the tools/languages which have been used at least once over the
 - Punctual -- https://dktr0.github.io/Punctual/
 - Pure Data -- https://puredata.info/
 - Ruffbox -- https://parkellipsen.de/ruffbox
+- Rhythmitic -- @totalgee's new tracker-like live coding environment
 - Scratch -- https://scratch.mit.edu/ (people using this language really do everything "From Scratch")
 - Snap! -- https://snap.berkeley.edu/
 - Sonic Pi -- https://sonic-pi.net/
 - Strudel -- https://strudel.cc/
 - SuperCollider -- https://supercollider.github.io/
 - Tidal Cycles -- https://tidalcycles.org/
-- Vargula -- @totalgee visual live coding playground
+- Vargula -- @totalgee's visual live coding playground
+- VCVRack -- https://vcvrack.com/
 - Živa -- https://github.com/loopier/ziva
 
 ## Hardware

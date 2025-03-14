@@ -1,5 +1,44 @@
 # From Scratch Sessions
 
+## 2025/02/26
+
+**Poster:** 
+
+<img src="images/poster_20250226.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250226.png?raw=true" width="200" />
+
+**Audience:** 
+
+<img src="images/audience_20250226.jpg?raw=true" width="200" />
+
+**Key Facts**:
+
+- sorteo took multiple attempts, as people kept coming in 
+- sorteo was implemented in Snap for the first time
+- the sorteo was fully observed, no changes to the line-up were made (first time in months)
+- more new faces showed up, both in the audience and for playing
+- the Femcoders BCN collective was visiting, the audience was majority female
+- a research project was running on the side ...
+- for the first time in a while, there was some intense on-stage debugging happening
+
+**Final Pairings:**
+
+Bernat (Microblocks) & heey (hydra, debut) - techno
+
+Niklas (Mégra) & Ilithya (shaders) - birds and sinewaves and shaders
+
+Karisha (Mercury, FromScratch deput) & alicia (Hydra) 
+
+Joan (Punctual) + Malisima (VCVRack, debut for lang and person) - noisy
+
+Ivan (SuperCollider) + Jogaye (Snap) - also noisy
+
+Mena (Hydra) + Glen (Rhythmitic, new midi tracker lang debut)
+
+
 ## 2025/01/30 - niu
 
 The first FromScratch of 2025. The year started quite noisy. The lineup started 
