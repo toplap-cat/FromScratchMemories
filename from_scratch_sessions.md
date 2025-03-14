@@ -1,18 +1,18 @@
 # From Scratch Sessions
 
-## 2025/02/26
+## 2025/02/27
 
 **Poster:** 
 
-<img src="images/poster_20250226.jpg?raw=true" width="200" />
+<img src="images/poster_20250227.jpg?raw=true" width="200" />
 
 **Sorteo:** 
 
-<img src="images/sorteo_20250226.png?raw=true" width="200" />
+<img src="images/sorteo_20250227.png?raw=true" width="200" />
 
 **Audience:** 
 
-<img src="images/audience_20250226.jpg?raw=true" width="200" />
+<img src="images/audience_20250227.jpg?raw=true" width="400" />
 
 **Key Facts**:
 
