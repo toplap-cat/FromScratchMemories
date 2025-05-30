@@ -1,5 +1,52 @@
 # From Scratch Sessions
 
+## 2025/04/24
+
+**Poster:** 
+
+<img src="images/poster_20250424.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250424.png?raw=true" width="200" />
+
+It's getting warmer, people come in later, maybe because it's light outside for longer.
+
+### Final Pairings:
+
+* Niklas/Leon - Megra.rs/Glsl
+* Yago/heey - Mercury/Hydra - classic yago!
+* Justin/Gabriel - SuperCollider/Hydra - noisy video deconstruction
+* Ramon/Alicia - TidalCycles/Hydra
+* Alicia/Lena - TidalCycles/Hydra 
+* Bernat/Ludovica - plain microblocks/hydra
+* Iván/tito - SuperCollider/Hydra
+* Iván/mena - SuperCollider/Hydra
+
+## 2025/03/27
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250327.png?raw=true" width="200" />
+
+A slow start, there were few known faces when we arrived.
+Not the biggest audience in the beginning, later it filled up.
+Weird sorteo, mostly observed but with some double entries
+
+### Final Pairings:
+
+* Maia/Mena - sc /hydra - maia minimal rhythmic
+* Justin/Tito - sc/hydra - too much noise
+* Glen/Leon - ghythmithic/glsl
+* Iván/leon - sc/gls
+* Yago/Justin - mercury/hydra
+* Niklas/Skynet - megra.rs+scorviz/hydra - live coding a choir of Toplap gatitos
+* Justin/Tito again ??? - odd sorteo this time ...
+* Roger - Animatron+Živa
+
+**special guest, long set**: Lina/Citlali - mercury/hydra
+
+
 ## 2025/02/27
 
 **Poster:** 
