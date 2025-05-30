@@ -8,7 +8,7 @@
 
 **Sorteo:** 
 
-<img src="images/sorteo_20250424.png?raw=true" width="200" />
+<img src="images/sorteo_20250424.jpg?raw=true" width="200" />
 
 It's getting warmer, people come in later, maybe because it's light outside for longer.
 
@@ -27,7 +27,7 @@ It's getting warmer, people come in later, maybe because it's light outside for 
 
 **Sorteo:** 
 
-<img src="images/sorteo_20250327.png?raw=true" width="200" />
+<img src="images/sorteo_20250327.jpg?raw=true" width="200" />
 
 A slow start, there were few known faces when we arrived.
 Not the biggest audience in the beginning, later it filled up.
