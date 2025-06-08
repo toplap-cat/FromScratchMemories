@@ -1,5 +1,39 @@
 # From Scratch Sessions
 
+## 2025/05/30 - ICLC 2025 FromScratch
+
+This from scratch happened in parallel to the community tapas at ICLC2025, on a Friday for once.
+
+Unfortunately, we were limited in time and couldn't get all the way down the list.
+
+Changeovers were super quick, and it was great to see the traditional Barcelona format
+in this context.
+
+**Poster:** 
+
+<img src="images/poster_20250530.jpg?raw=true" width="200" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250530.jpg?raw=true" width="200" />
+
+**Prof. Pibernat Explaining the Procedure (a familiar image):** 
+
+<img src="images/roger_20250530.jpg?raw=true" width="200" />
+
+
+### Final Pairings:
+
+* Switch Angel (strudel) / Matthew Kaney (hydra) - What an energy release after 3.5 days of conference! Breakbeats and Amen-Cutups ...
+* Emptyflash (Strudel/Bytebeats) / jogaye (Snap) - bytebeat glitch
+* Joana Chicau (algorithmic artscape) / parkellipsen (Mégra) - meowsic-ton and website artscapes
+* Anselm (SuperCollider) / fileneed (hydra) - noisy rhythms
+* harte_echtzeit (TidalCycle) / Obi Wan Codenobi (The Force) - AAA
+* th4 (TidalCycles) / Jame Coyne (Touch Designer)
+* Sule (TidalCycles) / Gorka (Hydra) - Flok Session
+* Lu Wilson/Blaz/Miaucow/ElChinchilla/Algorka - flok session (but not nudel?)
+* D0ktoro / Savamala - historic Punctual 0.5 duo moment
+
 ## 2025/04/24
 
 **Poster:** 

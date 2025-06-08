@@ -2,6 +2,7 @@
 
 Links to some of the tools/languages which have been used at least once over the years, in TOPLAP Barcelona From Scratch sessions, in arbitrary (well, alphabetical) order:
 
+- Algorithmic Artscape -- https://algorithmic-scape.art
 - Animatron -- https://github.com/loopier/animatron
 - Bacalao -- https://github.com/totalgee/bacalao
 - Bash 
