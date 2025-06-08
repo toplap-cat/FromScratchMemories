@@ -29,7 +29,9 @@ Links to some of the tools/languages which have been used at least once over the
 - Sonic Pi -- https://sonic-pi.net/
 - Strudel -- https://strudel.cc/
 - SuperCollider -- https://supercollider.github.io/
+- The Force -- https://shawnlawson.github.io/The_Force/
 - Tidal Cycles -- https://tidalcycles.org/
+- Touch Designer
 - Vargula -- @totalgee's visual live coding playground
 - VCVRack -- https://vcvrack.com/
 - Živa -- https://github.com/loopier/ziva
