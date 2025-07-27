@@ -1,5 +1,44 @@
 # From Scratch Sessions
 
+## 2025/07/15 - MAGBa From Scratch, Palo Alto
+
+An extraordinary FromScratch within the MAGBa show [https://www.paloalto.barcelona/expomagba2](https://www.paloalto.barcelona/expomagba2), 
+in which the TOPLAP Barcelona collective took part with the "show-us-your-screens" screenshot exhibition.
+It happened right after a guided visit to the exhibition, so there was quite a big audience with plenty of people 
+from outside the "usual" circles.
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250715.jpg?raw=true" width="250" />
+
+### Final Pairings: 
+
+* Ramon (TidalCycles) / Enric (Hydra) 
+* Iván (SuperCollider) / Alicia (Hydra) 
+* Niklas (Mégra.rs) / heeey (p5.js/shaders) 
+* Alicia (TidalCycles) / Joan (Punctual)
+* Bernat (ByteBeat) / heeey (p5.js/shaders) 
+* Roger (Živa) / Joan (Punctual)
+
+## 2025/06/26 - Niu
+
+Last "regular" FromScratch of the 2024/2025 season, before the summer break. 
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250626.jpg?raw=true" width="250" />
+
+### Final Pairings (reconstructed from images): 
+
+* Alfonso (LaLluvia) / Alicia (Hydra)
+* Bernat (MicroBlocks) / Maia (SuperCollider)
+* Glen (Rhythmitic) / heeey (p5.js/shaders)
+* Ivan (SuperCollider) / ?
+* Alicia (TidalCycles) / Ivan (Hydra)
+* Roger (Živa) / Glen (?)
+* ? / Roger (Animatron) 
+* Francesco Ardan Dal Rí / ? 
+
 ## 2025/05/30 - ICLC 2025 FromScratch
 
 This from scratch happened in parallel to the community tapas at ICLC2025, on a Friday for once.
