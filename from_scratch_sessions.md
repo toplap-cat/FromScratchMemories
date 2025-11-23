@@ -1,5 +1,59 @@
 # From Scratch Sessions
 
+## 2025/10/30 - Niu
+
+A marathon line-up, audience-wise it was a slow start.
+
+**Poster:** 
+
+<img src="images/poster_20251030.jpg?raw=true" width="250" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20251030.jpg?raw=true" width="250" />
+
+### Final Pairings: 
+
+* heeey (Hydra) / Daax (Pure Data) 
+* Alicia (Hydra) / Roger (Tocata)
+* Bernat (Snap) / Maia (SuperCollider)
+* Roger (Animatron) / Yago (Strudel)
+* The Masked Coder (Hydra) / Bernat (Bytebeat) 
+* Iván (Hydra) / Santi (Strudel) 
+* heeey (Hydra) / Iván (SuperCollider) 
+* Alicia (Hydra) / heeey (Strudel, audio debut!)
+* Bernat (Snap) / Glen (Rhythmitic) 
+* Niklas (Screamer) / Sang (Strudel, BCN FromScratch debut!) 
+* Sang (Hydra) / Niklas (Mégra) 
+
+## 2025/09/25 - Niu
+
+Visualists were scarce that day so there were a few repetitions.
+Audience filled up over time. 
+
+**Poster:** 
+
+<img src="images/poster_20250925.jpg?raw=true" width="250" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20250925.png?raw=true" width="250" />
+
+
+### Final Pairings: 
+
+* Iván (SuperCollider) / Alicia (Hydra)
+* Bernat solo (Bytebeat)
+* Alicia (TidalCycles) / Jogaye (Snap)
+* Daniel (Strudel) / Niklas (Screamer, software debut!)
+* Maia (SuperCollider) / The Masked Coder (Hydra)
+* Niklas (Mégra) / Jogaye (Snap)
+* Yago (Strudel) / Alicia (Hydra)
+
+## 2025/08/28 - Secret Location
+
+... very, very secret ... 
+
 ## 2025/07/15 - MAGBa From Scratch, Palo Alto
 
 An extraordinary FromScratch within the MAGBa show [https://www.paloalto.barcelona/expomagba2](https://www.paloalto.barcelona/expomagba2), 

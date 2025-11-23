@@ -28,9 +28,11 @@ Links to some of the tools/languages which have been used at least once over the
 - Snap! -- https://snap.berkeley.edu/
 - Sonic Pi -- https://sonic-pi.net/
 - Strudel -- https://strudel.cc/
+- Screamer -- https://charlieroberts.github.io/screamer/
 - SuperCollider -- https://supercollider.github.io/
 - The Force -- https://shawnlawson.github.io/The_Force/
 - Tidal Cycles -- https://tidalcycles.org/
+- Tocata -- Roger's education live coding eDSL
 - Touch Designer
 - Vargula -- @totalgee's visual live coding playground
 - VCVRack -- https://vcvrack.com/
