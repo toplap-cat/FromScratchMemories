@@ -1,5 +1,44 @@
 # From Scratch Sessions
 
+## 2025/12/07 - Niu - 15 Years of FromScratch
+
+**Poster:** 
+
+<img src="images/poster_20251207.jpg?raw=true" width="250" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20251207.jpg?raw=true" width="250" />
+
+Special birthday edition, 15 years after the first FromScratch happened in Mexico.
+
+Global live stream and a long session locally (which, obviously, was also streamed).
+
+**Stream Archive:** https://archive.org/details/toplap-fromscratch-dec2025-toplap-barcelona
+
+## 2025/11/27 - Niu
+
+**Poster:** 
+
+<img src="images/poster_20251127.jpg?raw=true" width="250" />
+
+**Sorteo:** 
+
+<img src="images/sorteo_20251127.jpg?raw=true" width="250" />
+
+A mellow end-of-year FromScratch, plenty of folks were out of town but we still managed to get a sizeable line-up together. Calm before the 15-year birthday storm.
+
+### Final Pairings: 
+
+* Yago (Strudel) / Jogaye Snap
+* Ramon (Tidal) / Jogaye Snap
+* Bennat (Bytebeat) / Alicia Hydra
+* The Masked Coder (Orca) / Alicia (Hydra)
+* Alicia (Tidal) / Niklas (Openscad)
+* Niklas (Mégra) / The Masked Coder (Hydra)
+
+Extra Set: Yago
+
 ## 2025/10/30 - Niu
 
 A marathon line-up, audience-wise it was a slow start.
